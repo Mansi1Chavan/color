@@ -1,0 +1,19 @@
+.container{
+    position: absolute;
+    top:35%;
+    left:35%;
+  }
+  
+  .container p{
+      border: 3px solid black;
+      border-radius: 10px;
+      font-size: 2rem;
+      color:brown; 
+  }
+  
+  
+  #btn{
+    text-align: center;
+  font-size: 3rem;
+  margin-left: 10rem;
+  }
